@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently studying **3rd Year Computing in Software Development**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/y-xing01)
+- 👨‍💻 All of my projects are available [here](https://github.com/y-xing01?tab=repositories)
 
 - 📫 You can reach me through [LinkedIn](www.linkedin.com/in/yuexing-bblailai)
 
