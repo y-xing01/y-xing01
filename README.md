@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently studying **3rd Year Computing in Software Development**
+- 🌱 I’m currently studying **4th Year Computing in Software Development**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/y-xing01?tab=repositories)
 
